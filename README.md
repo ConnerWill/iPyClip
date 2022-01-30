@@ -232,3 +232,6 @@ The task is now registered and will run on the next logon. The task can be viewe
 
 *Credit to [original script](https://www.autohotkey.com/boards/viewtopic.php?t=69889)*
 -->
+
+## Notes
+*This script is still a work in progress*
